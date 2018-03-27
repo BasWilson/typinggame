@@ -18,7 +18,7 @@ $(document).ready(function() {
     startGame();
     $("#startBtn").hide();
   })
-
+ //update
 });
 
 
